@@ -1,0 +1,1873 @@
+[
+  {
+    "frage": "Welche Aufgabe gehört NICHT zum Tätigkeitsprofil eines ATA?",
+    "antworten": {
+      "A": "Assistenz bei der Intubation",
+      "B": "Sterile Aufbereitung der Instrumente",
+      "C": "Durchführung der Narkoseeinleitung",
+      "D": "Überwachung der Vitalparameter"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Die Narkoseeinleitung ist Aufgabe des Anästhesisten."
+  },
+  {
+    "frage": "Welches Gerät misst den endtidalen CO₂-Gehalt (etCO₂)?",
+    "antworten": {
+      "A": "Pulsoximeter",
+      "B": "Kapnograph",
+      "C": "EKG-Monitor",
+      "D": "Blutdruckmanschette"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Der Kapnograph zeigt die CO₂-Konzentration in der Ausatemluft an."
+  },
+  {
+    "frage": "Was ist der Normwert für die Sauerstoffsättigung (SpO₂) bei einem gesunden Patienten?",
+    "antworten": {
+      "A": "85–89%",
+      "B": "90–94%",
+      "C": "95–100%",
+      "D": "75–80%"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Ein SpO₂-Wert unter 95% kann auf eine Hypoxämie hinweisen."
+  },
+  {
+    "frage": "Welche Lagerung ist für eine Spinalanästhesie erforderlich?",
+    "antworten": {
+      "A": "Steinschnittlage",
+      "B": "Bauchlage",
+      "C": "Seitlagerung mit gekrümmtem Rücken",
+      "D": "Fowler-Position"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Die seitliche Lagerung mit gekrümmtem Rücken ermöglicht den Zugang zum Spinalkanal."
+  },
+  {
+    "frage": "Welche Komplikation kann bei zu rascher Propofol-Gabe auftreten?",
+    "antworten": {
+      "A": "Hypertonie",
+      "B": "Atemdepression",
+      "C": "Tachykardie",
+      "D": "Hyperglykämie"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Propofol kann eine dosisabhängige Atemdepression auslösen."
+  },
+  {
+    "frage": "Was ist das Antidot bei einer Opioid-Überdosierung?",
+    "antworten": {
+      "A": "Flumazenil",
+      "B": "Naloxon",
+      "C": "Atropin",
+      "D": "Epinephrin"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Naloxon blockiert kompetitiv die Opioid-Rezeptoren."
+  },
+  {
+    "frage": "Welche Narkoseform eignet sich für kurze Eingriffe ohne Intubation?",
+    "antworten": {
+      "A": "TIVA",
+      "B": "Larynxmaske mit Inhalationsanästhetikum",
+      "C": "Spinalanästhesie",
+      "D": "Periduralanästhesie"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Die Larynxmaske ermöglicht eine schonende Beatmung ohne Intubation."
+  },
+  {
+    "frage": "Was ist KEINE Komponente des Standardmonitorings?",
+    "antworten": {
+      "A": "EKG",
+      "B": "SpO₂",
+      "C": "Zentralvenendruck (ZVD)",
+      "D": "Kapnometrie"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Der ZVD wird nur bei speziellen Indikationen gemessen."
+  },
+  {
+    "frage": "Welche Aussage zur Malignen Hyperthermie ist richtig?",
+    "antworten": {
+      "A": "Tritt nur bei Kindern auf",
+      "B": "Wird durch Dantrolen behandelt",
+      "C": "Verursacht Hypothermie",
+      "D": "Ist psychogen bedingt"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Dantrolen ist das spezifische Antidot bei Maligner Hyperthermie."
+  },
+  {
+    "frage": "Wie lange sollte eine Präoxygenierung bei einem Erwachsenen dauern?",
+    "antworten": {
+      "A": "30 Sekunden",
+      "B": "1–2 Minuten",
+      "C": "3–5 Minuten",
+      "D": "10 Minuten"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Mindestens 3 Minuten mit 100% O₂, um die Apnoetoleranz zu verlängern."
+  },
+ {
+    "frage": "Welches Instrument wird zur direkten Laryngoskopie verwendet?",
+    "antworten": {
+      "A": "Bronchoskop",
+      "B": "Laryngoskop mit Spatel",
+      "C": "Tubusführer",
+      "D": "Absaugkatheter"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Das Laryngoskop mit Spatel ermöglicht die Visualisierung der Glottis."
+  },
+  {
+    "frage": "Was ist die primäre Indikation für eine endotracheale Intubation?",
+    "antworten": {
+      "A": "Oberflächliche Wundversorgung",
+      "B": "Atemwegsicherung bei Narkose oder Atemversagen",
+      "C": "Blutentnahme",
+      "D": "Lagerung des Patienten"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Die Intubation dient dem Schutz der Atemwege und der kontrollierten Beatmung."
+  },
+  {
+    "frage": "Welche Größe hat ein Standard-Endotrachealtubus für einen Erwachsenen?",
+    "antworten": {
+      "A": "ID 2–3 mm",
+      "B": "ID 5–6 mm",
+      "C": "ID 7–8 mm",
+      "D": "ID 10–12 mm"
+    },
+    "richtige_antwort": "C",
+    "begründung": "ID 7–8 mm ist die typische Größe für Erwachsene (ID = Innendurchmesser)."
+  },
+  {
+    "frage": "Was bestätigt die korrekte Tubuslage am sichersten?",
+    "antworten": {
+      "A": "Auskultation der Lunge",
+      "B": "Kapnographie",
+      "C": "Pulsoxymetrie",
+      "D": "Inspektion des Thorax"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Kapnographie zeigt CO₂ in der Ausatemluft und bestätigt damit die tracheale Lage."
+  },
+  {
+    "frage": "Welche Komplikation kann bei einer Intubation auftreten?",
+    "antworten": {
+      "A": "Zahnschäden",
+      "B": "Hyperglykämie",
+      "C": "Hypothermie",
+      "D": "Anstieg des Sehvermögens"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Mechanische Traumata an Zähnen oder Schleimhäuten sind mögliche Risiken."
+  },
+  {
+    "frage": "Was ist der 'Cormack-Lehane'-Score?",
+    "antworten": {
+      "A": "Ein Grading-System für die Sicht auf die Glottis",
+      "B": "Eine Skala zur Schmerzmessung",
+      "C": "Ein Bewertungssystem für Narkosetiefe",
+      "D": "Ein Laborparameter"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Der Score beschreibt die Einsehbarkeit der Glottis bei der Laryngoskopie (Grad I–IV)."
+  },
+  {
+    "frage": "Welche Alternative gibt es bei einer schwierigen Intubation?",
+    "antworten": {
+      "A": "Larynxmaske",
+      "B": "Periduralkatheter",
+      "C": "Blutdruckmanschette",
+      "D": "EKG-Elektroden"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Die Larynxmaske ist ein supraglottischer Atemweg."
+  },
+  {
+    "frage": "Wie tief wird ein Endotrachealtubus bei Erwachsenen typischerweise platziert?",
+    "antworten": {
+      "A": "1–2 cm oberhalb der Carina",
+      "B": "5–6 cm oberhalb der Carina",
+      "C": "10–12 cm oberhalb der Carina",
+      "D": "Direkt in der Carina"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Die Tubusspitze sollte sich 3–5 cm oberhalb der Bifurkation befinden."
+  },
+  {
+    "frage": "Was ist ein Vorteil der Videolaryngoskopie?",
+    "antworten": {
+      "A": "Geringere Kosten",
+      "B": "Bessere Sicht auf die Glottis",
+      "C": "Keine Präoxygenierung nötig",
+      "D": "Verkürzte Narkosezeit"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Videolaryngoskope ermöglichen oft eine bessere Visualisierung der Glottis."
+  },
+  {
+    "frage": "Welche Maßnahme gehört zum 'schwierigen Atemweg'?",
+    "antworten": {
+      "A": "RAMPE-Algorithmus",
+      "B": "HELP-Protokoll",
+      "C": "ABC-Schema",
+      "D": "SOS-Konzept"
+    },
+    "richtige_antwort": "A",
+    "begründung": "RAMPE steht für 'Recognize, Assess, Manage, Prepare, Execute' bei schwierigem Atemweg."
+  },
+  {
+    "frage": "Welche Substanz gehört zur Gruppe der nicht-depolarisierenden Muskelrelaxanzien?",
+    "antworten": {
+      "A": "Succinylcholin",
+      "B": "Rocuronium",
+      "C": "Propofol",
+      "D": "Midazolam"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Rocuronium ist ein nicht-depolarisierendes Muskelrelaxans (Aminosteroid)."
+  },
+  {
+    "frage": "Was ist die typische Wirkdauer von Succinylcholin?",
+    "antworten": {
+      "A": "1-2 Minuten",
+      "B": "10-15 Minuten",
+      "C": "30-45 Minuten",
+      "D": "2-3 Stunden"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Succinylcholin hat eine ultra-kurze Wirkdauer (depolarisierendes Relaxans)."
+  },
+  {
+    "frage": "Welches Medikament wird zur Narkoseeinleitung bei Kindern häufig verwendet?",
+    "antworten": {
+      "A": "Thiopental",
+      "B": "Sevofluran",
+      "C": "Ketamin",
+      "D": "Etomidat"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Sevofluran wird aufgrund seines angenehmen Geruchs häufig zur Inhalationseinleitung bei Kindern genutzt."
+  },
+  {
+    "frage": "Was ist eine typische Nebenwirkung von Opioiden?",
+    "antworten": {
+      "A": "Hyperventilation",
+      "B": "Tachykardie",
+      "C": "Atemdepression",
+      "D": "Hypertonie"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Opioide können eine dosisabhängige Atemdepression verursachen."
+  },
+  {
+    "frage": "Welches Antidot wird bei Benzodiazepin-Überdosierung eingesetzt?",
+    "antworten": {
+      "A": "Naloxon",
+      "B": "Flumazenil",
+      "C": "Atropin",
+      "D": "Physostigmin"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Flumazenil ist der spezifische Benzodiazepin-Antagonist."
+  },
+  {
+    "frage": "Welche Aussage zu Propofol ist richtig?",
+    "antworten": {
+      "A": "Wirkt analgetisch",
+      "B": "Führt häufig zu Hypertonie",
+      "C": "Hat eine antiemetische Wirkung",
+      "D": "Ist ein Inhalationsanästhetikum"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Propofol hat neben der hypnotischen auch eine antiemetische Wirkkomponente."
+  },
+  {
+    "frage": "Was ist die Hauptwirkung von Midazolam?",
+    "antworten": {
+      "A": "Analgesie",
+      "B": "Muskelrelaxation",
+      "C": "Sedierung/Anxiolyse",
+      "D": "Sympathikusaktivierung"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Midazolam ist ein Benzodiazepin mit sedierender und anxiolytischer Wirkung."
+  },
+  {
+    "frage": "Welche Substanz kann eine Maligne Hyperthermie auslösen?",
+    "antworten": {
+      "A": "Propofol",
+      "B": "Sevofluran",
+      "C": "Ketamin",
+      "D": "Remifentanil"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Volatile Anästhetika wie Sevofluran sind klassische Trigger der Malignen Hyperthermie."
+  },
+  {
+    "frage": "Welche Aussage zu Muskelrelaxanzien ist richtig?",
+    "antworten": {
+      "A": "Sugammadex antagonisiert Succinylcholin",
+      "B": "Rocuronium wirkt depolarisierend",
+      "C": "Neostigmin ist ein Antidot für Aminosteroide",
+      "D": "Atracurium wird unverändert renal ausgeschieden"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Neostigmin (Acetylcholinesterase-Hemmer) antagonisiert nicht-depolarisierende Relaxanzien."
+  },
+  {
+    "frage": "Welches Medikament eignet sich zur Blutdrucksenkung in der Narkose?",
+    "antworten": {
+      "A": "Ephedrin",
+      "B": "Urapidil",
+      "C": "Atropin",
+      "D": "Adrenalin"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Urapidil ist ein α1-Blocker zur kontrollierten Blutdrucksenkung."
+  },
+  {
+    "frage": "Regionalanästhesie: Welche Nadellänge wird typischerweise für eine Spinalanästhesie verwendet?",
+    "antworten": {
+      "A": "2-3 cm",
+      "B": "5-6 cm", 
+      "C": "9-12 cm",
+      "D": "15-20 cm"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Spinalnadeln (z.B. Quincke- oder Pencil-Point) sind meist 9-12 cm lang."
+  },
+  {
+    "frage": "Regionalanästhesie-Komplikationen: Was ist die häufigste Komplikation nach Spinalanästhesie?",
+    "antworten": {
+      "A": "Maligne Hyperthermie",
+      "B": "Postpunktionelle Kopfschmerzen",
+      "C": "Lungenembolie",
+      "D": "Anaphylaxie" 
+    },
+    "richtige_antwort": "B",
+    "begründung": "Postpunktionelle Kopfschmerzen (PDPH) treten bei 1-3% der Patienten auf."
+  },
+  {
+    "frage": "Regionalanästhesie: Welche Lösung wird für eine Periduralanästhesie (PDA) verwendet?",
+    "antworten": {
+      "A": "Reines Lokalanästhetikum (z.B. Bupivacain)",
+      "B": "Kochsalzlösung",
+      "C": "Glukose 5%",
+      "D": "Vollelektrolytlösung"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Lokalanästhetika (+ ggf. Opioide als Adjuvans) sind Standard für die PDA."
+  },
+  {
+    "frage": "Notfallmanagement: Was ist das erste Zeichen einer malignen Hyperthermie?",
+    "antworten": {
+      "A": "Hypotonie",
+      "B": "ST-Senkungen im EKG", 
+      "C": "Tachykardie und steigender etCO₂",
+      "D": "Zyanose"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Frühzeichen sind Tachykardie und exzessive CO₂-Produktion (↑ etCO₂)."
+  },
+  {
+    "frage": "Pharmakologie: Welches Medikament ist Mittel der Wahl bei maligner Hyperthermie?",
+    "antworten": {
+      "A": "Propofol",
+      "B": "Dantrolen", 
+      "C": "Naloxon",
+      "D": "Atropin"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Dantrolen hemmt die Kalziumfreisetzung im Muskel (kausale Therapie)."
+  },
+  {
+    "frage": "Atemwegssicherung: Welche Technik eignet sich bei unerwartet schwieriger Intubation?",
+    "antworten": {
+      "A": "Weiterer Intubationsversuch ohne Änderung",
+      "B": "Einsatz eines Videolaryngoskops",
+      "C": "Verzicht auf Beatmung",
+      "D": "Gabe von Muskelrelaxanzien"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Videolaryngoskope verbessern die Glottis-Sicht (RAMPE-Algorithmus)."
+  },
+  {
+    "frage": "Monitoring: Welcher Parameter zeigt früh eine Hypoxämie an?",
+    "antworten": {
+      "A": "Blutdruck",
+      "B": "SpO₂", 
+      "C": "ZVD",
+      "D": "Temperatur"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Pulsoxymetrie (SpO₂) detektiert Sauerstoffsättigungsabfälle sofort."
+  },
+  {
+    "frage": "Hygiene: Wie lange muss eine Händedesinfektion mindestens dauern?",
+    "antworten": {
+      "A": "5 Sekunden",
+      "B": "15 Sekunden",
+      "C": "30 Sekunden",
+      "D": "2 Minuten"
+    },
+    "richtige_antwort": "C",
+    "begründung": "30 Sekunden sind laut WHO-Richtlinien erforderlich für eine vollständige Wirkung."
+  },
+  {
+    "frage": "Pharmakologie: Welche Wirkung hat Sugammadex?",
+    "antworten": {
+      "A": "Antagonisiert Benzodiazepine",
+      "B": "Bindet Aminosteroid-Relaxanzien (z.B. Rocuronium)",
+      "C": "Steigert die Opioidwirkung",
+      "D": "Senkt den Blutdruck"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Sugammadex inkludiert Aminosteroid-Relaxanzien (1:1-Komplexbildung)."
+  },
+  {
+    "frage": "Narkosegerät: Wozu dient der APL-Ventil (Adjustable Pressure Limiting)?",
+    "antworten": {
+      "A": "Regulierung des Frischgasflusses",
+      "B": "Einstellung des Beatmungsdrucks",
+      "C": "Begrenzung des Systemdrucks im Kreissystem",
+      "D": "Filterung von Narkosegasen"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Das APL-Ventil limitiert den Druck im Kreissystem (z.B. bei manueller Beatmung)."
+  },
+{
+    "frage": "Notfallmanagement: Welche Maßnahme steht im Vordergrund bei einem anaphylaktischen Schock?",
+    "antworten": {
+      "A": "Gabe von Antibiotika",
+      "B": "Intravenöse Volumengabe und Adrenalin",
+      "C": "Lagerung in Trendelenburg-Position",
+      "D": "Gabe von Diuretika"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Adrenalin ist das Mittel der Wahl bei Anaphylaxie (α- und β-Wirkung). Volumen stabilisiert den Kreislauf."
+  },
+  {
+    "frage": "EKG-Monitoring: Was zeigt eine ST-Strecken-Hebung an?",
+    "antworten": {
+      "A": "Hyperkaliämie",
+      "B": "Myokardischämie/Infarkt",
+      "C": "Hypothermie",
+      "D": "Lungenembolie"
+    },
+    "richtige_antwort": "B",
+    "begründung": "ST-Hebungen sind Leitsymptom eines STEMI (ST-Hebungsinfarkts)."
+  },
+  {
+    "frage": "Notfallmanagement: Wie oft wird bei einer Reanimation gemäß ERC-Leitlinien beatmet?",
+    "antworten": {
+      "A": "5 Beatmungen/min",
+      "B": "10 Beatmungen/min",
+      "C": "20 Beatmungen/min",
+      "D": "Keine Beatmung (nur Thoraxkompressionen)"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Bei CPR mit gesichertem Atemweg: 10 Beatmungen/min (Verhältnis 30:2 entfällt)."
+  },
+  {
+    "frage": "EKG-Monitoring: Welche Herzfrequenz definiert eine Tachykardie beim Erwachsenen?",
+    "antworten": {
+      "A": ">60/min",
+      "B": ">80/min",
+      "C": ">100/min",
+      "D": ">120/min"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Tachykardie: >100/min, Bradykardie: <60/min."
+  },
+  {
+    "frage": "Notfallmanagement: Welches Medikament wird bei Asystolie primär gegeben?",
+    "antworten": {
+      "A": "Atropin",
+      "B": "Adrenalin",
+      "C": "Amiodaron",
+      "D": "Lidocain"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Adrenalin 1mg alle 3-5 Minuten ist First-Line-Therapie bei Asystolie/PEA."
+  },
+  {
+    "frage": "EKG-Monitoring: Was kennzeichnet ein Vorhofflimmern im EKG?",
+    "antworten": {
+      "A": "Regelmäßige schmale QRS-Komplexe",
+      "B": "Fehlende P-Wellen + irreguläre RR-Intervalle",
+      "C": "ST-Hebungen in allen Ableitungen",
+      "D": "QT-Verlängerung"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Vorhofflimmern zeigt unregelmäßige Aktion ohne P-Wellen („absolutes Arrhythmie“)."
+  },
+  {
+    "frage": "Notfallmanagement: Was ist die erste Maßnahme bei Verdacht auf maligne Hyperthermie?",
+    "antworten": {
+      "A": "Gabe von Dantrolen",
+      "B": "Beendigung der Triggerstoffe",
+      "C": "Kühlung des Patienten",
+      "D": "Gabe von Natriumbicarbonat"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Sofortiges Stoppen aller Trigger (Inhalationsanästhetika + Succinylcholin) ist prioritär."
+  },
+  {
+    "frage": "EKG-Monitoring: Welche Veränderung zeigt eine Hyperkaliämie an?",
+    "antworten": {
+      "A": "U-Wellen",
+      "B": "Hohe spitze T-Wellen",
+      "C": "ST-Senkungen",
+      "D": "QT-Verkürzung"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Hyperkaliämie: Hohe spitze T-Wellen > QRS-Verbreiterung > Asystolie."
+  },
+  {
+    "frage": "Notfallmanagement: Welche Lagerung ist bei einem Schockpatienten sinnvoll?",
+    "antworten": {
+      "A": "Flach auf dem Rücken",
+      "B": "Trendelenburg-Lagerung",
+      "C": "Oberkörper tief, Beine hoch",
+      "D": "Linksseitenlage"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Schocklagerung: Beine hoch (autotransfusion) + ggf. Oberkörper tief (zerebrale Perfusion)."
+  },
+  {
+    "frage": "EKG-Monitoring: Welcher Rhythmus erfordert eine sofortige Defibrillation?",
+    "antworten": {
+      "A": "Asystolie",
+      "B": "Pulslose elektrische Aktivität (PEA)",
+      "C": "Kammerflimmern",
+      "D": "Sinustachykardie"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Kammerflimmern (VF) und pulslose VT sind defibrillierbare Rhythmen."
+  },
+  {
+    "frage": "Pharmakologie: Welches Opioid hat die kürzeste Wirkdauer?",
+    "antworten": {
+      "A": "Morphin",
+      "B": "Fentanyl",
+      "C": "Remifentanil",
+      "D": "Sufentanil"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Remifentanil wird durch unspezifische Esterasen abgebaut (Halbwertszeit 3-10 min)."
+  },
+  {
+    "frage": "Muskelrelaxanzien: Welche Aussage zu Succinylcholin ist richtig?",
+    "antworten": {
+      "A": "Wirkt nicht-depolarisierend",
+      "B": "Kann zu Hyperkaliämie führen",
+      "C": "Hat eine Wirkdauer von 30-60 min",
+      "D": "Wird durch Sugammadex antagonisiert"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Succinylcholin kann gefährliche Kaliumfreisetzung aus Muskelzellen verursachen (v.a. bei Verbrennungen/Querschnitt)."
+  },
+  {
+    "frage": "Pharmakologie: Was ist die typische Wirkdauer von Rocuronium?",
+    "antworten": {
+      "A": "2-5 Minuten",
+      "B": "20-35 Minuten",
+      "C": "1-2 Stunden",
+      "D": "4-6 Stunden"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Rocuronium (Aminosteroid) hat eine mittlere Wirkdauer von 20-35 Minuten."
+  },
+  {
+    "frage": "Opioide: Welche Nebenwirkung ist typisch für Morphin?",
+    "antworten": {
+      "A": "Bronchodilatation",
+      "B": "Hyperventilation",
+      "C": "Histaminfreisetzung",
+      "D": "Blutdrucksteigerung"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Morphin kann Histamin freisetzen (Juckreiz, Blutdruckabfall, Bronchokonstriktion)."
+  },
+  {
+    "frage": "Muskelrelaxanzien: Wofür ist Sugammadex zugelassen?",
+    "antworten": {
+      "A": "Antagonisierung von Benzodiazepinen",
+      "B": "Aufhebung von Rocuronium/Vecuronium",
+      "C": "Behandlung von Opioid-Überdosierung",
+      "D": "Therapie der malignen Hyperthermie"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Sugammadex inkludiert Aminosteroid-Relaxanzien (1:1-Komplexbildung)."
+  },
+  {
+    "frage": "Pharmakologie: Welches Opioid eignet sich für patientenkontrollierte Analgesie (PCA)?",
+    "antworten": {
+      "A": "Remifentanil",
+      "B": "Sufentanil",
+      "C": "Piritramid",
+      "D": "Codein"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Piritramid ist das Standardopioid für PCA-Pumpen (gute Steuerbarkeit, mittlere Wirkdauer)."
+  },
+  {
+    "frage": "Muskelrelaxanzien: Was ist die Wirkung von Neostigmin?",
+    "antworten": {
+      "A": "Blockiert NMDA-Rezeptoren",
+      "B": "Hemmt Acetylcholinesterase",
+      "C": "Bindet an GABA-Rezeptoren",
+      "D": "Antagonisiert Opioide"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Neostigmin erhöht durch Cholinesterase-Hemmung die Acetylcholin-Konzentration (Antagonisierung nicht-depolarisierender Relaxanzien)."
+  },
+  {
+    "frage": "Pharmakologie: Welches Opioid wird zur Neuroleptanalgesie eingesetzt?",
+    "antworten": {
+      "A": "Morphin",
+      "B": "Fentanyl",
+      "C": "Tramadol",
+      "D": "Hydromorphon"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Fentanyl wird mit Neuroleptikum (z.B. Droperidol) kombiniert (Neuroleptanalgesie)."
+  },
+  {
+    "frage": "Muskelrelaxanzien: Welche Substanz ist ein depolarisierendes Relaxans?",
+    "antworten": {
+      "A": "Vecuronium",
+      "B": "Atracurium",
+      "C": "Succinylcholin",
+      "D": "Rocuronium"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Succinylcholin ist das einzige klinisch genutzte depolarisierende Muskelrelaxans."
+  },
+  {
+    "frage": "Pharmakologie: Welche Aussage zu Fentanyl ist richtig?",
+    "antworten": {
+      "A": "Hat eine längere Wirkdauer als Morphin",
+      "B": "Wirkt primär über μ-Opioidrezeptoren",
+      "C": "Führt typischerweise zu Hypertonie",
+      "D": "Wird hauptsächlich renal ausgeschieden"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Fentanyl ist ein hochpotenter μ-Rezeptor-Agonist (100x stärker als Morphin)."
+  },
+  {
+    "frage": "Anästhesiegerät: Welche Funktion hat das Narkosegas-Monitoring?",
+    "antworten": {
+      "A": "Messung der inspiratorischen O₂-Konzentration",
+      "B": "Analyse der exspiratorischen Anästhetika-Konzentration",
+      "C": "Kontrolle der Atemfrequenz",
+      "D": "Überwachung des Blutdrucks"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Narkosegas-Monitoring misst die endtidale Konzentration (etAA) von Inhalationsanästhetika zur Steuerung der Narkosetiefe."
+  },
+  {
+    "frage": "Beatmung: Welcher Atemzugvolumen (AZV) wird bei kontrollierter Beatmung eines Erwachsenen eingestellt?",
+    "antworten": {
+      "A": "2-3 ml/kg KG",
+      "B": "6-8 ml/kg KG",
+      "C": "10-12 ml/kg KG",
+      "D": "15-20 ml/kg KG"
+    },
+    "richtige_antwort": "B",
+    "begründung": "6-8 ml/kg KG ist protektiv (vermeidet Volutrauma). Früher wurden 10-15 ml/kg KG verwendet."
+  },
+  {
+    "frage": "Anästhesiegerät: Wozu dient der O₂-Flush?",
+    "antworten": {
+      "A": "Kalibrierung des Flowmeters",
+      "B": "Schnelle Zufuhr von 100% O₂ unter Umgehung des Verdampfers",
+      "C": "Reinigung des Kreissystems",
+      "D": "Einstellung des PEEP"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Der O₂-Flush spült das System mit 35-75 l/min O₂ (Notfallfunktion bei Hypoxie)."
+  },
+  {
+    "frage": "Beatmung: Was beschreibt die Compliance der Lunge?",
+    "antworten": {
+      "A": "Widerstand der Atemwege",
+      "B": "Dehnbarkeit des Lungengewebes",
+      "C": "Diffusionskapazität für O₂",
+      "D": "Residualvolumen"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Compliance = ΔV/ΔP (Volumenänderung pro Druckänderung). Niedrig bei ARDS, hoch bei Emphysem."
+  },
+  {
+    "frage": "Anästhesiegerät: Welche Aussage zum CO₂-Absorber ist richtig?",
+    "antworten": {
+      "A": "Enthält Kaliumhydroxid",
+      "B": "Verfärbt sich bei Erschöpfung nach blau",
+      "C": "Muss alle 24 Stunden gewechselt werden",
+      "D": "Kann durch Atemkalk ersetzt werden"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Moderne Absorber enthalten NaOH/KOH/Ca(OH)₂ und verfärben sich von weiß → violett/blau bei Erschöpfung."
+  },
+  {
+    "frage": "Beatmung: Welcher PEEP-Wert ist bei normaler Beatmung üblich?",
+    "antworten": {
+      "A": "0 cmH₂O",
+      "B": "3-5 cmH₂O",
+      "C": "10-12 cmH₂O",
+      "D": "15-20 cmH₂O"
+    },
+    "richtige_antwort": "B",
+    "begründung": "3-5 cmH₂O PEEP verhindert Atelektasenbildung („physiologischer PEEP“)."
+  },
+  {
+    "frage": "Anästhesiegerät: Was passiert bei Aktivierung der Sauerstoffbypass-Funktion?",
+    "antworten": {
+      "A": "Narkosegaszufuhr wird unterbrochen",
+      "B": "Der O₂-Flow wird auf 15 l/min erhöht",
+      "C": "Alarme werden deaktiviert",
+      "D": "Der Verdampfer wird umgangen"
+    },
+    "richtige_antwort": "D",
+    "begründung": "Die O₂-Bypass-Taste leitet 100% O₂ direkt ins System (umgeht Verdampfer für Notfälle)."
+  },
+  {
+    "frage": "Beatmung: Welche Beatmungsform ist bei Narkose mit Spontanatmung möglich?",
+    "antworten": {
+      "A": "IPPV",
+      "B": "CPAP",
+      "C": "BiPAP",
+      "D": "ASB"
+    },
+    "richtige_antwort": "B",
+    "begründung": "CPAP (continuous positive airway pressure) unterstützt die Spontanatmung unter Narkose."
+  },
+  {
+    "frage": "Anästhesiegerät: Welche Gase werden im Narkosegerät gemischt?",
+    "antworten": {
+      "A": "O₂ und N₂O",
+      "B": "O₂ und CO₂",
+      "C": "N₂ und Helium",
+      "D": "O₂ und N₂"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Standard-Gasgemische: O₂/N₂O oder O₂/Luft (N₂O wird zunehmend seltener verwendet)."
+  },
+  {
+    "frage": "Beatmung: Was ist die typische FiO₂ bei Luftbeatmung?",
+    "antworten": {
+      "A": "0.21 (21%)",
+      "B": "0.3 (30%)",
+      "C": "0.5 (50%)",
+      "D": "1.0 (100%)"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Raumluft enthält 21% O₂. FiO₂ >0.21 erfordert O₂-Zugabe."
+  },
+  {
+    "frage": "Hygiene: Welches Verfahren ist zur Aufbereitung von Laryngoskopspateln vorgeschrieben?",
+    "antworten": {
+      "A": "Abwischen mit Desinfektionstuch",
+      "B": "Manuelle Reinigung + Sterilisation",
+      "C": "Ultraschallbad + Autoklavierung",
+      "D": "Trockene Lagerung über 24 Stunden"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Laryngoskopspatel müssen nach RKI mindestens thermisch desinfiziert (besser sterilisiert) werden, da sie mit Schleimhäuten in Kontakt kommen."
+  },
+  {
+    "frage": "Arbeitsschutz: Welche PSA ist bei Narkoseeinleitung obligat?",
+    "antworten": {
+      "A": "Schutzbrille + Kittel",
+      "B": "FFP2-Maske + Einmalhandschuhe",
+      "C": "Gehörschutz + Sicherheitsschuhe",
+      "D": "Kopfhaube + Mundschutz"
+    },
+    "richtige_antwort": "B",
+    "begründung": "FFP2-Maske (Aerosolschutz) und Handschuhe (Kontaktschutz) sind bei Intubation/Extubation Pflicht (TRBA 250)."
+  },
+  {
+    "frage": "Hygiene: Wie lange ist eine sterile Abdeckung von Peridural-/Spinal-Sets maximal nutzbar?",
+    "antworten": {
+      "A": "1 Stunde",
+      "B": "4 Stunden",
+      "C": "12 Stunden",
+      "D": "24 Stunden"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Sterile Abdeckungen bei Regionalverfahren dürfen laut KRINKO nur 1 Stunde genutzt werden (Keimzahlanstieg!)."
+  },
+  {
+    "frage": "Arbeitsschutz: Wann ist ein Atemschutz (FFP3) erforderlich?",
+    "antworten": {
+      "A": "Bei jeder Narkose",
+      "B": "Bei Tuberkulose-Patienten",
+      "C": "Bei Kindern unter 10 Jahren",
+      "D": "Bei Verwendung von Lachgas"
+    },
+    "richtige_antwort": "B",
+    "begründung": "FFP3 ist bei aerogen übertragbaren Erkrankungen (z.B. Tbc, COVID-19-Varianten) vorgeschrieben."
+  },
+  {
+    "frage": "Hygiene: Welche Wischdesinfektion ist für Narkosearbeitsflächen korrekt?",
+    "antworten": {
+      "A": "Einmaliges Wischen mit Alkoholtuch",
+      "B": "Zweischritt-Verfahren (Reinigung + Desinfektion)",
+      "C": "Nur bei sichtbarer Verschmutzung",
+      "D": "Wöchentliche Großreinigung"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Flächendesinfektion erfordert laut KRINKO erst Reinigung, dann Desinfektion („Zweischrittprinzip“)."
+  },
+  {
+    "frage": "Arbeitsschutz: Was gehört zur Nadelstichprophylaxe nach Exposition?",
+    "antworten": {
+      "A": "Blutentnahme beim Patienten",
+      "B": "Sofortige Wunddesinfektion + Meldung",
+      "C": "Gabe von Antibiotika",
+      "D": "24-stündige Arbeitspause"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Nach Stichverletzung: Wunde ausbluten lassen, desinfizieren, HBV/HCV/HIV-Testung beim Patienten veranlassen (DGUV 109-011)."
+  },
+  {
+    "frage": "Hygiene: Wie oft müssen Beatmungsschläuche gewechselt werden?",
+    "antworten": {
+      "A": "Nach jedem Patienten",
+      "B": "Wöchentlich",
+      "C": "Monatlich",
+      "D": "Nur bei sichtbarer Verschmutzung"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Beatmungsschläuche sind patientennah und müssen laut KRINKO nach jedem Patienten gewechselt/aufbereitet werden."
+  },
+  {
+    "frage": "Arbeitsschutz: Welche Maßnahme reduziert Narkosegas-Exposition am effektivsten?",
+    "antworten": {
+      "A": "Lüften nach Narkoseende",
+      "B": "Gasabsaugsystem am Narkosegerät",
+      "C": "Tragen von OP-Masken",
+      "D": "Verzicht auf Inhalationsanästhetika"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Aktive Gasabsaugung (Scavenging) reduziert Raumluftbelastung mit Narkosegasen um >90% (TRGS 900)."
+  },
+  {
+    "frage": "Hygiene: Welche Händedesinfektionsmittel sind gegen behüllte Viren wirksam?",
+    "antworten": {
+      "A": "Nur chlorhaltige Präparate",
+      "B": "Alkoholische Präparate (mind. 70%)",
+      "C": "Jodophor-Lösungen",
+      "D": "Seife + Wasser"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Alkoholbasierte Händedesinfektionsmittel (60-80% Ethanol/Isopropanol) wirken gegen behüllte Viren (z.B. SARS-CoV-2, Influenza)."
+  },
+  {
+    "frage": "Arbeitsschutz: Was ist bei Lagerung von Narkosemedikamenten zu beachten?",
+    "antworten": {
+      "A": "Kühlschranklagerung aller Ampullen",
+      "B": "Getrennte Aufbewahrung von Look-alike-Medikamenten",
+      "C": "Aufbewahrung in Originalverpackung",
+      "D": "Wöchentliche Kontrolle des Bestands"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Look-alike-Medikamente (z.B. Adrenalin/Atropin) müssen räumlich getrennt gelagert werden (Medikationsfehler-Prophylaxe)."
+  },
+  {
+    "frage": "Pädiatrische Anästhesie: Welches Beatmungszubehör ist für Neugeborene ungeeignet?",
+    "antworten": {
+      "A": "Maske mit Deadspace <5ml",
+      "B": "Magill-Tubus Größe 3.0",
+      "C": "Standard-Larynxmaske Größe 4",
+      "D": "T-Stück-System (Mapleson F)"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Standard-Larynxmasken sind erst ab ca. 10 kg (Größe 1) geeignet. Neugeborene benötigen spezielle Säuglingsmasken."
+  },
+  {
+    "frage": "Kindernarkose: Wie berechnet man die Tubusgröße bei Kindern?",
+    "antworten": {
+      "A": "(Alter in Jahren + 16) / 4",
+      "B": "Gewicht in kg / 2",
+      "C": "Körpergröße in cm / 10",
+      "D": "Standardgröße 6.0 für alle"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Formel: (Alter/4) + 4 für ungecuffte Tuben (z.B. 4 Jahre → 5.0 mm ID). Gecuffte Tuben: 0.5 mm kleiner."
+  },
+  {
+    "frage": "Neonatologie: Welche Atemfrequenz ist bei Frühgeborenen normal?",
+    "antworten": {
+      "A": "10-20/min",
+      "B": "30-50/min",
+      "C": "60-80/min",
+      "D": "5-10/min"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Frühgeborene haben eine physiologische Tachypnoe (30-60/min) aufgrund unreifer Lungen."
+  },
+  {
+    "frage": "Pädiatrisches Monitoring: Ab welchem Alter ist die Kapnographie verpflichtend?",
+    "antworten": {
+      "A": "Ab Geburt",
+      "B": "Ab 6 Monaten",
+      "C": "Ab 3 Jahren",
+      "D": "Nur bei Erwachsenen"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Laut DGAI gilt Kapnographie-Pflicht für ALLE beatmeten Patienten, auch bei Neugeborenen."
+  },
+  {
+    "frage": "Kindernotfall: Welches Volumen hat ein Pädiatrischer Beatmungsbeutel?",
+    "antworten": {
+      "A": "100 ml",
+      "B": "250 ml",
+      "C": "500 ml",
+      "D": "1500 ml"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Pädiatrische Beatmungsbeutel haben 250-500 ml Volumen (Erwachsene: 1500 ml)."
+  },
+  {
+    "frage": "Medikamente: Welche Propofol-Dosis ist für ein 10 kg schweres Kind indiziert?",
+    "antworten": {
+      "A": "10-20 mg",
+      "B": "50-100 mg",
+      "C": "150-200 mg",
+      "D": "250 mg"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Dosis: 3-5 mg/kg KG → 10 kg Kind = 30-50 mg. Max. Einzeldosis 100 mg."
+  },
+  {
+    "frage": "Pädiatrische Regionalanästhesie: Welches Lokalanästhetikum ist kontraindiziert?",
+    "antworten": {
+      "A": "Bupivacain 0,25%",
+      "B": "Ropivacain 0,2%",
+      "C": "Lidocain mit Adrenalin",
+      "D": "Prilocain 1%"
+    },
+    "richtige_antwort": "D",
+    "begründung": "Prilocain >0,5% kann Methämoglobinämie verursachen (v.a. bei Säuglingen)."
+  },
+  {
+    "frage": "Flüssigkeitsmanagement: Welche Erhaltungsinfusion ist für ein 8 kg schweres Kind korrekt?",
+    "antworten": {
+      "A": "20 ml/h",
+      "B": "40 ml/h",
+      "C": "80 ml/h",
+      "D": "120 ml/h"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Berechnung: 4 ml/kg/h für erste 10 kg → 8 kg × 4 ml = 32 ml/h (20-40 ml/h sind klinisch üblich)."
+  },
+  {
+    "frage": "Atemweg: Ab welchem Lebensjahr ist die Intubation mit Cuff-Tuben sicher?",
+    "antworten": {
+      "A": "Ab Geburt",
+      "B": "Ab 1 Jahr",
+      "C": "Ab 5 Jahren",
+      "D": "Ab 12 Jahren"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Moderne Mikrocuff-Tuben können ab 1 Jahr verwendet werden (Cuff-Druck <20 cmH₂O!)."
+  },
+  {
+    "frage": "Narkoseeinleitung: Warum wird bei Kindern häufig Sevofluran eingesetzt?",
+    "antworten": {
+      "A": "Wegen des angenehmen Geruchs",
+      "B": "Weil es nicht bronchodilatierend wirkt",
+      "C": "Weil es billiger ist als Propofol",
+      "D": "Weil es keine Atemdepression verursacht"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Sevofluran riecht weniger stechend als andere Inhalationsanästhetika und wird daher besser von Kindern toleriert."
+  },
+  {
+    "frage": "Geriatrische Anästhesie: Warum benötigen ältere Patienten niedrigere Narkosemitteldosen?",
+    "antworten": {
+      "A": "Wegen erhöhter Muskelmasse",
+      "B": "Durch reduzierte hepatische/renale Elimination",
+      "C": "Wegen gesteigerter Schmerztoleranz",
+      "D": "Durch höhere Körperfettanteile"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Abnahme der Leber- und Nierenfunktion im Alter → langsamere Medikamentenelimination (z.B. 30-50% geringere Propofoldosis)."
+  },
+  {
+    "frage": "Kardiale Komorbiditäten: Welches Monitoring ist bei KHK-Patienten obligat?",
+    "antworten": {
+      "A": "ZVD-Messung",
+      "B": "Invasive Blutdruckmessung",
+      "C": "5-Kanal-EKG mit ST-Analyse",
+      "D": "Zerebrale Oxymetrie"
+    },
+    "richtige_antwort": "C",
+    "begründung": "ST-Strecken-Analyse erkennt früh Myokardischämien (sensitiv für perioperative Infarkte)."
+  },
+  {
+    "frage": "Pulmonale Komorbiditäten: Welche Beatmungseinstellung ist bei COPD sinnvoll?",
+    "antworten": {
+      "A": "Hohe Atemfrequenz (20/min)",
+      "B": "Lange Exspirationszeit (I:E = 1:3)",
+      "C": "Hoher PEEP (10 cmH₂O)",
+      "D": "Großes Atemzugvolumen (10 ml/kg)"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Lange Exspiration verhindert Air-Trapping (bei obstruktiver Ventilationsstörung)."
+  },
+  {
+    "frage": "Renale Komorbiditäten: Welches Muskelrelaxans ist bei Niereninsuffizienz kontraindiziert?",
+    "antworten": {
+      "A": "Succinylcholin",
+      "B": "Rocuronium",
+      "C": "Atracurium",
+      "D": "Cisatracurium"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Rocuronium wird renal ausgeschieden (kumuliert bei Nierenversagen). Atracurium/Cisatracurium sind Hoffmann-Elimination."
+  },
+  {
+    "frage": "Demenzpatienten: Welche Prämedikation ist besonders wichtig?",
+    "antworten": {
+      "A": "Benzodiazepine",
+      "B": "Opioide",
+      "C": "Antidementiva",
+      "D": "Keine (Risiko für Delir)"
+    },
+    "richtige_antwort": "D",
+    "begründung": "Benzodiazepine erhöhen das postoperative Delir-Risiko bei Demenz um 300% (besser nicht-medikamentöse Beruhigung)."
+  },
+  {
+    "frage": "Diabetes mellitus: Welcher präoperative HbA1c-Wert gilt als akzeptabel?",
+    "antworten": {
+      "A": "<6%",
+      "B": "<8%",
+      "C": "<10%",
+      "D": "Unbegrenzt"
+    },
+    "richtige_antwort": "B",
+    "begründung": "HbA1c <8% reduziert Wundinfektionsrisiko (bei >8% elektive OP verschieben, falls möglich)."
+  },
+  {
+    "frage": "Geriatrisches Monitoring: Welche Aussage zur Narkosetiefe ist richtig?",
+    "antworten": {
+      "A": "BIS-Wert sollte 20-30 betragen",
+      "B": "Ältere brauchen höhere MAC-Werte",
+      "C": "EEG-Monitoring ist unnötig",
+      "D": "Narkosetiefe korreliert mit Blutdruck"
+    },
+    "richtige_antwort": "A",
+    "begründung": "BIS 40-60 ist optimal (bei Älteren oft 20-30 wegen erhöhter Sensitivität). MAC-Werte sinken im Alter!"
+  },
+  {
+    "frage": "Polypharmazie: Welches Medikament muss perioperativ meist weitergegeben werden?",
+    "antworten": {
+      "A": "Orales Antidiabetikum",
+      "B": "ACE-Hemmer",
+      "C": "ASS 100",
+      "D": "Diuretikum"
+    },
+    "richtige_antwort": "C",
+    "begründung": "ASS sollte bei kardialer Indikation weitergegeben werden (Blutungsrisiko abwägen!)."
+  },
+  {
+    "frage": "Orthogeriatrie: Welche Anästhesie ist bei hüftnahen Frakturen bevorzugt?",
+    "antworten": {
+      "A": "Allgemeinanästhesie",
+      "B": "Spinalanästhesie",
+      "C": "Periduralanästhesie",
+      "D": "Kein Unterschied"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Spinalanästhesie reduziert Mortalität vs. ITN (Studienlage), aber individuelle Entscheidung nötig."
+  },
+  {
+    "frage": "Postoperatives Delir: Welche Maßnahme beugt vor?",
+    "antworten": {
+      "A": "Flüssigkeitsrestriktion",
+      "B": "Frühe Mobilisation",
+      "C": "Dexmedetomidin-Gabe",
+      "D": "Opioid-basierte Analgesie"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Multimodale Prophylaxe: Orientierungshilfen, Schlaf-Wach-Rhythmus, frühe Mobilisation, Flüssigkeitsbilanzierung."
+  },
+  {
+    "frage": "Spinalanästhesie: Welche Punktionshöhe ist für eine Sectio caesarea typisch?",
+    "antworten": {
+      "A": "Th12/L1",
+      "B": "L3/L4",
+      "C": "L1/L2",
+      "D": "L5/S1"
+    },
+    "richtige_antwort": "B",
+    "begründung": "L3/L4 oder L2/L3 sind Standard (Ausnahme: bei sehr kleinen Frauen L4/L5)."
+  },
+  {
+    "frage": "PDA-Technik: Welcher Widerstand zeigt die korrekte Periduralraum-Lage an?",
+    "antworten": {
+      "A": "Plötzlicher Druckverlust (Loss-of-Resistance)",
+      "B": "Blut im Mandrin",
+      "C": "CSF-Austritt",
+      "D": "Widerstand >20 N"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Der „Loss-of-Resistance“-Test mit NaCl oder Luft identifiziert den Periduralraum."
+  },
+  {
+    "frage": "Oberer Extremitätenblock: Welcher Nerv wird beim Interskalenären Block nicht erfasst?",
+    "antworten": {
+      "A": "N. medianus",
+      "B": "N. ulnaris",
+      "C": "N. radialis",
+      "D": "N. phrenicus"
+    },
+    "richtige_antwort": "D",
+    "begründung": "Der N. phrenicus verläuft zwar in der Nähe, wird aber nicht für die Arm-Anästhesie geblockt (Risiko: Zwerchfellparese)."
+  },
+  {
+    "frage": "Kaudalanästhesie: Welches Volumen ist für ein 10 kg schweres Kind angemessen?",
+    "antworten": {
+      "A": "1 ml",
+      "B": "5 ml",
+      "C": "10 ml",
+      "D": "20 ml"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Dosierung: 1 ml/kg KG (max. 20 ml). 10 kg Kind → 10 ml 0,2%iges Ropivacain."
+  },
+  {
+    "frage": "Plexus-coeliacus-Block: Welche Struktur muss sonographisch identifiziert werden?",
+    "antworten": {
+      "A": "A. femoralis",
+      "B": "A. coeliaca",
+      "C": "A. subclavia",
+      "D": "V. jugularis"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Der Plexus coeliacus liegt um die A. coeliaca (Oberbauchviszeral-Anästhesie)."
+  },
+  {
+    "frage": "TAP-Block: Welche Schicht wird für die Injektion angestrebt?",
+    "antworten": {
+      "A": "Subkutis",
+      "B": "Zwischen M. obliquus internus und transversus",
+      "C": "Intraperitoneal",
+      "D": "Retroperitoneal"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Transversus-abdominis-plane-Block: Lokalanästhetikum zwischen M. obliquus internus und M. transversus abdominis."
+  },
+  {
+    "frage": "Femoralisblock: Welche Komplikation ist am häufigsten?",
+    "antworten": {
+      "A": "Pneumothorax",
+      "B": "Hämatom",
+      "C": "Krampfanfall",
+      "D": "Spinalanästhesie"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Hämatombildung durch Punktion der A. femoralis (ca. 5% der Fälle)."
+  },
+  {
+    "frage": "Spinalanästhesie: Welche Barizität hat eine 0,5%ige Bupivacain-Lösung?",
+    "antworten": {
+      "A": "Hyperbar",
+      "B": "Isobar",
+      "C": "Hypobar",
+      "D": "Variabel"
+    },
+    "richtige_antwort": "A",
+    "begründung": "0,5%iges Bupivacain enthält Glukose → hyperbar (sinkt im Liquor)."
+  },
+  {
+    "frage": "PDA-Katheter: Welche Testdosis wird zur intravasalen Lagekontrolle verwendet?",
+    "antworten": {
+      "A": "5 ml NaCl 0,9%",
+      "B": "3 ml Bupivacain 0,5% + Adrenalin 1:200.000",
+      "C": "10 ml Ropivacain 0,2%",
+      "D": "1 ml Fentanyl"
+    },
+    "richtige_antwort": "B",
+    "begründung": "3 ml Bupivacain 0,5% mit Adrenalin: Bei intravasaler Injektion → Tachykardie (Adrenalinwirkung)."
+  },
+  {
+    "frage": "Oberer Extremitätenblock: Welches Volumen ist für einen Axillaris-Block nötig?",
+    "antworten": {
+      "A": "5 ml",
+      "B": "10 ml",
+      "C": "20 ml",
+      "D": "40 ml"
+    },
+    "richtige_antwort": "D",
+    "begründung": "Axilläre Plexusblockade erfordert 30-40 ml LA (z.B. Ropivacain 0,375%)."
+  },
+  {
+    "frage": "Schwangerschaft: Warum sind Schwangere besonders aspirationsgefährdet?",
+    "antworten": {
+      "A": "Erhöhter Östrogenspiegel",
+      "B": "Mechanische Magenentleerungsstörung + reduzierter Ösophagus-Sphinktertonus",
+      "C": "Verminderte Magensäureproduktion",
+      "D": "Gesteigerte Darmperistaltik"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Uterusdruck + Progesteronwirkung → Magenentleerung ↓ + Sphinktertonus ↓ → Aspirationsrisiko ↑ (Rapid-Sequence-Indikation!)"
+  },
+  {
+    "frage": "Notfallnarkose: Welche Medikamentenkombination ist für Rapid-Sequence-Induction (RSI) geeignet?",
+    "antworten": {
+      "A": "Propofol + Pancuronium",
+      "B": "Thiopental + Succinylcholin",
+      "C": "Midazolam + Rocuronium",
+      "D": "Ketamin + Atracurium"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Thiopental (Hypnotikum) + Succinylcholin (ultrakurz wirksames Relaxans) sind Goldstandard für RSI."
+  },
+  {
+    "frage": "Schwangerschaft: Ab welchem Trimenon ist die supine Position kritisch?",
+    "antworten": {
+      "A": "1. Trimenon",
+      "B": "2. Trimenon",
+      "C": "3. Trimenon",
+      "D": "Nie"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Ab 20. SSW (2. Trimenon) kann der Uterus die V. cava komprimieren → Linksseitenlagerung obligat!"
+  },
+  {
+    "frage": "Notfall: Welches ist das Antidot bei lokalanästhetikainduzierter Intoxikation?",
+    "antworten": {
+      "A": "Atropin",
+      "B": "Lipidemulsion 20%",
+      "C": "Flumazenil",
+      "D": "Naloxon"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Lipidrescue-Therapie (Intralipid®) bindet fettlösliche LA wie Bupivacain (DGAI-Leitlinie)."
+  },
+  {
+    "frage": "Schwangerschaft: Welche Spinalanästhesie-Höhe ist für eine Sectio erforderlich?",
+    "antworten": {
+      "A": "Th12",
+      "B": "Th10",
+      "C": "Th6",
+      "D": "Th4"
+    },
+    "richtige_antwort": "D",
+    "begründung": "Sensible Blockade bis Th4 nötig (Schnittschmerz bis Th10, Traktion an Peritoneum/Organen bis Th4)."
+  },
+  {
+    "frage": "Notfall: Welche Maßnahme hat Priorität bei Spannungspneumothorax unter Beatmung?",
+    "antworten": {
+      "A": "Bronchoskopie",
+      "B": "Sofortige Entlastungspunktion",
+      "C": "PEEP-Erhöhung",
+      "D": "Lagerungsänderung"
+    },
+    "richtige_antwort": "B",
+    "begründung": "14G-Kanüle im 2. ICR medioklavikular als Lebensrettende Maßnahme (vor Röntgenbestätigung!)."
+  },
+  {
+    "frage": "Schwangerschaft: Warum ist Ketamin bei der geburtshilflichen Notfallnarkose vorteilhaft?",
+    "antworten": {
+      "A": "Blutdruckstabilisierende Wirkung",
+      "B": "Keine Atemdepression",
+      "C": "Schnellere Plazentagängigkeit",
+      "D": "Geringere Uteruskontraktion"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Ketamin stabilisiert den Blutdruck (sympathomimetisch) bei Hypovolämie/Präeklampsie (Cave: HT-Krise möglich)."
+  },
+  {
+    "frage": "Notfall: Welche Einstellung ist bei massiver Blutung priorisiert?",
+    "antworten": {
+      "A": "Tiefe Narkose + Hypotension",
+      "B": "Permissive Hypotonie (SBP 80-100 mmHg)",
+      "C": "Volle Volumensubstitution + Vasopressoren",
+      "D": "Hyperventilation"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Permissive Hypotonie reduziert Blutverlust bis zur chirurgischen Blutstillung (Ziel-SBP individuell anpassen)."
+  },
+  {
+    "frage": "Schwangerschaft: Welches Muskelrelaxans ist bei Präeklampsie kontraindiziert?",
+    "antworten": {
+      "A": "Rocuronium",
+      "B": "Succinylcholin",
+      "C": "Atracurium",
+      "D": "Vecuronium"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Succinylcholin → Hyperkaliämie-Risiko bei Präeklampsie (durch Muskelzellschäden). Rocuronium ist Alternative."
+  },
+  {
+    "frage": "Notfall: Welches ist das erste Zeichen einer malignen Hyperthermie?",
+    "antworten": {
+      "A": "Hypotonie",
+      "B": "ST-Senkungen im EKG",
+      "C": "Tachykardie + etCO₂-Anstieg",
+      "D": "Zyanose"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Frühzeichen: Tachykardie + exzessive CO₂-Produktion (etCO₂ >60 mmHg trotz adäquater Beatmung)."
+  },
+  {
+    "frage": "Gerinnungsmanagement: Welcher INR-Wert ist für eine Spinalanästhesie akzeptabel?",
+    "antworten": {
+      "A": "INR ≤1.0",
+      "B": "INR ≤1.4",
+      "C": "INR ≤2.0",
+      "D": "INR ≤3.0"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Für rückenmarksnahe Verfahren gilt: INR ≤1.4 (DGAI-Leitlinie). Höhere Werte erhöhen das spinales Hämatom-Risiko."
+  },
+  {
+    "frage": "Transfusion: Welches ist das erste Zeichen einer akuten hämolytischen Transfusionsreaktion?",
+    "antworten": {
+      "A": "Juckreiz",
+      "B": "Fieber + Blutdruckabfall",
+      "C": "Urtikaria",
+      "D": "Kopfschmerzen"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Fieber + Hypotension sind Frühzeichen (durch Zytokinfreisetzung). Hämoglobinurie folgt später."
+  },
+  {
+    "frage": "Antikoagulation: Wann ist eine Spinalanästhesie nach Gabe von niedermolekularem Heparin (NMH) sicher?",
+    "antworten": {
+      "A": "2 Stunden nach letzter NMH-Gabe",
+      "B": "12 Stunden nach letzter NMH-Gabe",
+      "C": "24 Stunden nach letzter NMH-Gabe",
+      "D": "48 Stunden nach letzter NMH-Gabe"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Mindestens 12 Stunden Abstand bei prophylaktischer NMH-Dosis (24 Stunden bei therapeutischer Dosis)."
+  },
+  {
+    "frage": "Massivtransfusion: Welches Verhältnis von Erythrozyten:FFP:Thrombozyten wird empfohlen?",
+    "antworten": {
+      "A": "1:1:1",
+      "B": "2:1:1",
+      "C": "4:1:1",
+      "D": "6:1:0.5"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Ratio 1:1:1 (Ery:FFP:TK) simuliert Vollblut und reduziert Verlustkoagulopathie (TEG-gesteuert optimal)."
+  },
+  {
+    "frage": "Gerinnungsdiagnostik: Welcher Wert beschreibt die Fibrinolyse?",
+    "antworten": {
+      "A": "Quick-Wert",
+      "B": "aPTT",
+      "C": "D-Dimere",
+      "D": "Fibrinogen"
+    },
+    "richtige_antwort": "C",
+    "begründung": "D-Dimere sind Fibrinspaltprodukte (Nachweis aktiver Fibrinolyse). Fibrinogen ↓ + D-Dimere ↑ = Verbrauchskoagulopathie."
+  },
+  {
+    "frage": "Transfusion: Ab welchem Hämoglobin-Wert ist eine Transfusion bei asymptomatischen Patienten indiziert?",
+    "antworten": {
+      "A": "Hb <6 g/dl",
+      "B": "Hb <8 g/dl",
+      "C": "Hb <10 g/dl",
+      "D": "Hb <12 g/dl"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Bei stabilen Patienten: Restriktive Strategie (Hb <6-7 g/dl). Ausnahme: KHK/Schlaganfall (Ziel Hb >8 g/dl)."
+  },
+  {
+    "frage": "Antikoagulation: Wann kann nach Spinalanästhesie wieder NMH gegeben werden?",
+    "antworten": {
+      "A": "Sofort",
+      "B": "Nach 2 Stunden",
+      "C": "Nach 4 Stunden",
+      "D": "Nach 24 Stunden"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Frühestens 4 Stunden nach Punktion (bei therapeutischer Antikoagulation 12 Stunden warten)."
+  },
+  {
+    "frage": "Blutprodukte: Wie lange sind aufgetaute Frischplasmen (FFP) haltbar?",
+    "antworten": {
+      "A": "2 Stunden",
+      "B": "12 Stunden",
+      "C": "24 Stunden",
+      "D": "72 Stunden"
+    },
+    "richtige_antwort": "B",
+    "begründung": "FFP muss innerhalb 12 Stunden transfundiert werden (Labile Gerinnungsfaktoren zerfallen)."
+  },
+  {
+    "frage": "Thrombozytenfunktion: Welche Aussage zu ASS ist richtig?",
+    "antworten": {
+      "A": "ASS muss immer 7 Tage pausiert werden",
+      "B": "Bei kardialer Indikation meist weitergeben",
+      "C": "Erhöht das Spinalhämatom-Risiko signifikant",
+      "D": "Wird durch Tranexamsäure antagonisiert"
+    },
+    "richtige_antwort": "B",
+    "begründung": "ASS soll bei kardialer Indikation (z.B. Stent) weitergegeben werden (nutzen > blutungsrisiko)."
+  },
+  {
+    "frage": "Gerinnungsfaktoren: Welches ist das erste Substitut bei Hypofibrinogenämie?",
+    "antworten": {
+      "A": "PPSB",
+      "B": "Fibrinogenkonzentrat",
+      "C": "FXIII",
+      "D": "AT III"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Fibrinogen <1.5 g/dl ist limitierender Faktor → Ziel: >2.0 g/dl (vor PPSB-Gabe korrigieren!)."
+  },
+  {
+    "frage": "Monitoring: Welcher Parameter ist im Standardmonitoring nach DGAI NICHT vorgeschrieben?",
+    "antworten": {
+      "A": "EKG",
+      "B": "Kapnographie",
+      "C": "Zentralvenendruck",
+      "D": "Sauerstoffsättigung (SpO₂)"
+    },
+    "richtige_antwort": "C",
+    "begründung": "ZVD-Messung ist nur bei speziellen Eingriffen oder kritischen Patienten erforderlich (kein Standardmonitoring)."
+  },
+  {
+    "frage": "Alarmmanagement: Wie oft müssen die Alarmgrenzen am Narkosegerät überprüft werden?",
+    "antworten": {
+      "A": "Vor jeder Narkose",
+      "B": "Täglich",
+      "C": "Wöchentlich",
+      "D": "Monatlich"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Alarmgrenzen müssen patientenindividuell vor JEDER Narkose angepasst werden (z.B. etCO₂, Atemfrequenz)."
+  },
+  {
+    "frage": "Kreislaufmonitoring: Was ist die normale Amplitude der arteriellen Blutdruckkurve?",
+    "antworten": {
+      "A": "5-10 mmHg",
+      "B": "20-40 mmHg",
+      "C": "60-80 mmHg",
+      "D": "100-120 mmHg"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Normale Pulsamplitude (Differenz systolisch-diastolisch) beträgt 20-40 mmHg (↑ bei Hyperzirkulation, ↓ bei Hypovolämie)."
+  },
+  {
+    "frage": "Kapnographie: Was zeigt ein plötzlicher Abfall des etCO₂ auf nahe 0 an?",
+    "antworten": {
+      "A": "Hyperventilation",
+      "B": "Diskonnektion",
+      "C": "Maligne Hyperthermie",
+      "D": "CO₂-Embolie"
+    },
+    "richtige_antwort": "B",
+    "begründung": "etCO₂-Abfall auf 0 deutet auf Tubusdislokation/Diskonnektion hin (Notfall!). Langsamer Abfall wäre bei Hypoventilation."
+  },
+  {
+    "frage": "Neuromonitoring: Welcher BIS-Wert entspricht einer adäquaten Narkosetiefe?",
+    "antworten": {
+      "A": "0-20",
+      "B": "40-60",
+      "C": "70-90",
+      "D": "100"
+    },
+    "richtige_antwort": "B",
+    "begründung": "BIS 40-60: Optimale Narkosetiefe. <40: Zu tief, >60: Aufwachphase (Cave: Muskelartefakte verfälschen Werte)."
+  },
+  {
+    "frage": "EKG-Interpretation: Was zeigt eine ST-Strecken-Senkung an?",
+    "antworten": {
+      "A": "Hyperkaliämie",
+      "B": "Myokardischämie",
+      "C": "Perikarderguss",
+      "D": "Lungenembolie"
+    },
+    "richtige_antwort": "B",
+    "begründung": "ST-Senkungen ≥0.5 mm sind Hinweis auf subendokardiale Ischämie (Ableitungsabhängig: z.B. V5 bei KHK)."
+  },
+  {
+    "frage": "Ventilationsüberwachung: Welcher Parameter erfasst Atemwegsobstruktionen am frühesten?",
+    "antworten": {
+      "A": "SpO₂",
+      "B": "Inspiratorischer Druck",
+      "C": "Atemfrequenz",
+      "D": "Tidalvolumen"
+    },
+    "richtige_antwort": "B",
+    "begründung": "↑ Inspiratorischer Druck ist Frühzeichen (z.B. bei Bronchospasmus). SpO₂ fällt erst spät ab!"
+  },
+  {
+    "frage": "Narkosegasmonitoring: Welche Einheit misst der Narkosegasanalysator?",
+    "antworten": {
+      "A": "Volumenprozent (Vol%)",
+      "B": "Millimeter Quecksilbersäule (mmHg)",
+      "C": "Parts per million (ppm)",
+      "D": "Millimol pro Liter (mmol/l)"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Inhalationsanästhetika werden in Vol% gemessen (1 Vol% ≈ 1 MAC bei Sevofluran)."
+  },
+  {
+    "frage": "Krisenmanagement: Welche Maßnahme hat bei einem Diskonnektionsalarm Priorität?",
+    "antworten": {
+      "A": "Alarm stummschalten",
+      "B": "Patient beatmen",
+      "C": "Narkosearzt rufen",
+      "D": "EKG kontrollieren"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Sofort manuell beatmen (Ambu-Beutel) und dann Ursache suchen (Atemwegskontrolle vor Technikcheck!)."
+  },
+  {
+    "frage": "Temperaturmonitoring: Ab welcher Hypothermie besteht Arrhythmiegefahr?",
+    "antworten": {
+      "A": "<36°C",
+      "B": "<34°C",
+      "C": "<32°C",
+      "D": "<30°C"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Unter 32°C: Risiko für Kammerflimmern. Unter 28°C: Asystolie (Zielperioperativ: >36°C)."
+  },
+  {
+    "frage": "Adipositas: Welches Beatmungszubehör ist bei morbider Adipositas (BMI >40 kg/m²) essenziell?",
+    "antworten": {
+      "A": "Nasopharyngealtubus",
+      "B": "Doppellumen-Tubus",
+      "C": "Videolaryngoskop",
+      "D": "T-Stück-System"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Videolaryngoskope verbessern die Glottissicht bei eingeschränkter Intubationsbedingungen (hoher Mallampati-Score, kurzer Hals)."
+  },
+  {
+    "frage": "Geriatrie: Warum ist die MAC (minimale alveoläre Konzentration) bei Senioren reduziert?",
+    "antworten": {
+      "A": "Verminderte Fettdepots",
+      "B": "Abnahme der Neuronenanzahl im Gehirn",
+      "C": "Erhöhte Leberdurchblutung",
+      "D": "Gesteigerte Schmerztoleranz"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Die MAC sinkt pro Lebensdekade um 6% (durch altersbedingte neuronale Degeneration). 80-Jährige benötigen ~40% weniger Inhalationsanästhetika."
+  },
+  {
+    "frage": "Kinderanästhesie: Welche Formel berechnet das Tubus-Volumen für die manuelle Beatmung?",
+    "antworten": {
+      "A": "10 ml/kg KG",
+      "B": "5 ml/kg KG",
+      "C": "2 ml/kg KG",
+      "D": "1 ml/kg KG"
+    },
+    "richtige_antwort": "A",
+    "begründung": "10 ml/kg KG simulieren physiologisches Atemzugvolumen (Cave: Bei eingeschränkter Compliance reduzieren)."
+  },
+  {
+    "frage": "Adipositas: Welche Propofol-Dosis sollte bei einem 120 kg schweren Patienten (BMI 42) zur Einleitung verwendet werden?",
+    "antworten": {
+      "A": "120-240 mg (1-2 mg/kg)",
+      "B": "180-300 mg (1.5-2.5 mg/kg)",
+      "C": "240-360 mg (2-3 mg/kg)",
+      "D": "360-480 mg (3-4 mg/kg)"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Dosierung nach Idealgewicht (ca. 70 kg) + 20-30%: 70 kg × (1.5-2.5 mg/kg) ≈ 180-300 mg (fettlösliches Pharmakon!)."
+  },
+  {
+    "frage": "Geriatrie: Welche Aussage zur Spinalanästhesie bei Senioren ist richtig?",
+    "antworten": {
+      "A": "Höhere Punktionsstellen sind erforderlich",
+      "B": "Geringere Lokalanästhetika-Dosen wirken ausreichend",
+      "C": "Hyperbare Lösungen wirken nicht",
+      "D": "Postpunktionelle Kopfschmerzen sind häufiger"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Durch Spinalkanalverengung reichen bei Älteren oft 50-75% der Standarddosis (z.B. 1.5 ml Bupivacain 0.5% hyperbar)."
+  },
+  {
+    "frage": "Kinderanästhesie: Welche Aussage zur Prämedikation ist richtig?",
+    "antworten": {
+      "A": "Midazolam-Nasenspray ist kontraindiziert",
+      "B": "Orale Prämedikation erfolgt 30-45 min vor Narkose",
+      "C": "Ketamin i.m. ist Mittel der ersten Wahl",
+      "D": "Keine Prämedikation unter 6 Jahren"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Midazolam-Saft (0.5 mg/kg) 30-45 min vorher reduziert präoperative Ängste (Nasenspray nur bei absoluter Kooperationsverweigerung)."
+  },
+  {
+    "frage": "Adipositas: Welche Lagerung ist bei Narkoseeinleitung zwingend?",
+    "antworten": {
+      "A": "Steinschnittlage",
+      "B": "Reverse-Trendelenburg (20° Oberkörperhoch)",
+      "C": "Bauchlage",
+      "D": "Linksseitenlage"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Oberkörperhochlagerung verbessert Oxygenierung und erleichtert die Intubation (RAMPE-Position: Ramping + Kopfextension)."
+  },
+  {
+    "frage": "Geriatrie: Welche Aussage zu Muskelrelaxanzien ist richtig?",
+    "antworten": {
+      "A": "Rocuronium-Dosis muss erhöht werden",
+      "B": "Succinylcholin-Wirkdauer verlängert sich",
+      "C": "Sugammadex-Dosis bleibt unverändert",
+      "D": "Atracurium kumuliert nicht"
+    },
+    "richtige_antwort": "D",
+    "richtige_antwort": "D",
+    "begründung": "Atracurium wird durch Hoffmann-Elimination abgebaut (unabhängig von Leber/Nieren). Rocuronium-Dosis muss reduziert werden!"
+  },
+  {
+    "frage": "Kinderanästhesie: Welche Atemfrequenz ist bei einem Säugling (6 Monate) normal?",
+    "antworten": {
+      "A": "10-15/min",
+      "B": "20-30/min",
+      "C": "30-40/min",
+      "D": "40-60/min"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Säuglinge haben eine physiologische Tachypnoe (Normwerte: Neugeborene 40-60/min, 1 Jahr 30-40/min, Erwachsene 12-16/min)."
+  },
+  {
+    "frage": "Adipositas: Welche Komplikation ist postoperativ besonders gefürchtet?",
+    "antworten": {
+      "A": "Maligne Hyperthermie",
+      "B": "Obstruktive Schlafapnoe (OSA)",
+      "C": "Anaphylaxie",
+      "D": "Hyperglykämie"
+    },
+    "richtige_antwort": "B",
+    "begründung": "OSA-Patienten haben ein 10-fach erhöhtes Risiko für postoperative Atemdepression (OPSCORE-Fragebogen vorher screenen!)."
+  },
+  {
+    "frage": "Neuroanästhesie: Welche Blutdruckzielwerte gelten bei Patienten mit Schlaganfall in der Narkose?",
+    "antworten": {
+      "A": "SBP <100 mmHg",
+      "B": "SBP ±20% vom Ausgangswert",
+      "C": "MAP >110 mmHg",
+      "D": "Keine Besonderheiten"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Blutdruck sollte innerhalb von 20% des präoperativen Ausgangswerts gehalten werden, um die zerebrale Perfusion aufrechtzuerhalten."
+  },
+  {
+    "frage": "Epilepsie: Welches Narkosemittel sollte bei Epilepsiepatienten vermieden werden?",
+    "antworten": {
+      "A": "Propofol",
+      "B": "Sevofluran",
+      "C": "Ketamin",
+      "D": "Midazolam"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Ketamin kann durch NMDA-Rezeptor-Stimulation epileptische Aktivität verstärken. Propofol und Benzodiazepine sind dagegen antikonvulsiv."
+  },
+  {
+    "frage": "Hirndruck: Welche Maßnahme ist bei erhöhtem intrakraniellem Druck (ICP) kontraindiziert?",
+    "antworten": {
+      "A": "Hyperventilation (etCO₂ 25-30 mmHg)",
+      "B": "Mannitol-Gabe",
+      "C": "Kopfhochlagerung 30°",
+      "D": "Volle Muskelrelaxierung"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Längerfristige Hyperventilation kann durch Vasokonstriktion die zerebrale Ischämie verstärken (nur als Bridging bis zur definitiven Therapie)."
+  },
+  {
+    "frage": "Myasthenia gravis: Welches Muskelrelaxans ist am ehesten vertretbar?",
+    "antworten": {
+      "A": "Succinylcholin",
+      "B": "Rocuronium",
+      "C": "Atracurium",
+      "D": "Sugammadex"
+    },
+    "richtige_antwort": "D",
+    "begründung": "Sugammadex ermöglicht schnelle Aufhebung von Rocuronium (falls nötig). Succinylcholin kann Hyperkaliämie auslösen, nicht-depolarisierende Relaxanzien wirken verlängert."
+  },
+  {
+    "frage": "Spinales Hämatom: Welches ist das Leitsymptom?",
+    "antworten": {
+      "A": "Kopfschmerzen",
+      "B": "Plötzliche Rückenschmerzen + neurologisches Defizit",
+      "C": "Übelkeit",
+      "D": "Blutdruckanstieg"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Akute starke Rückenschmerzen mit schlaffer Lähmung sind Notfallzeichen (MRT-Diagnostik + ggf. operative Dekompression innerhalb von 8 Stunden!)."
+  },
+  {
+    "frage": "Parkinson: Welche Medikamente müssen perioperativ weitergegeben werden?",
+    "antworten": {
+      "A": "L-Dopa",
+      "B": "MAO-B-Hemmer",
+      "C": "Beides",
+      "D": "Keines"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Absetzen kann zu lebensbedrohlicher akinetischer Krise führen. L-Dopa wird als Infusion perioperativ weitergegeben, MAO-B-Hemmer oral."
+  },
+  {
+    "frage": "Schädel-Hirn-Trauma: Welcher Blutdruck ist bei schwerem SHT anzustreben?",
+    "antworten": {
+      "A": "MAP <65 mmHg",
+      "B": "MAP 80-90 mmHg",
+      "C": "SBP >140 mmHg",
+      "D": "Keine Besonderheiten"
+    },
+    "richtige_antwort": "B",
+    "begründung": "MAP 80-90 mmHg sichert die zerebrale Perfusion (CPP = MAP - ICP). Hypotension verschlechtert das Outcome massiv!"
+  },
+  {
+    "frage": "Multiple Sklerose: Welche Aussage zur Spinalanästhesie ist richtig?",
+    "antworten": {
+      "A": "Absolute Kontraindikation",
+      "B": "Kann Schub auslösen",
+      "C": "Muss mit Kortison kombiniert werden",
+      "D": "Ist sicherer als Allgemeinanästhesie"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Spinalanästhesie kann (wie jeder Stressfaktor) einen Schub triggern, ist aber keine absolute Kontraindikation (individuelle Nutzen-Risiko-Abwägung)."
+  },
+  {
+    "frage": "Zerebrale Ischämie: Welches Inhalationsanästhetikum hat neuroprotektive Eigenschaften?",
+    "antworten": {
+      "A": "Isofluran",
+      "B": "Sevofluran",
+      "C": "Desfluran",
+      "D": "Xenon"
+    },
+    "richtige_antwort": "D",
+    "begründung": "Xenon hat nachweislich neuroprotektive Effekte (NMDA-Antagonismus), ist aber klinisch kaum verfügbar. Sevofluran zeigt leichte Protektion."
+  },
+  {
+    "frage": "Neurochirurgie: Welche Lagerung ist bei posteriorer Schädelgruben-OP erforderlich?",
+    "antworten": {
+      "A": "Bauchlage",
+      "B": "Park-Bench-Lagerung",
+      "C": "Sitzposition",
+      "D": "Steinschnittlage"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Park-Bench-Lagerung (seitlich mit Kopfhalterung) ermöglicht Zugang zur hinteren Schädelgrube. Sitzposition birgt VAE-Risiko."
+  },
+  {
+    "frage": "Polytrauma: Welches ist die erste Priorität im ABCDE-Schema?",
+    "antworten": {
+      "A": "Blutungskontrolle",
+      "B": "Atemwegssicherung",
+      "C": "Kreislaufstabilisierung",
+      "D": "Neurologische Beurteilung"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Atemwegssicherung (A) hat Priorität vor allem anderen (Cave: Cervicalspine-Schutz!). Erst dann folgen Breathing, Circulation etc. (ATLS-Algorithmus)."
+  },
+  {
+    "frage": "Thoraxtrauma: Welche Beatmungseinstellung ist bei Rippenserienfrakturen wichtig?",
+    "antworten": {
+      "A": "Hoher PEEP (>10 cmH₂O)",
+      "B": "Niedriges Tidalvolumen (6 ml/kg)",
+      "C": "Hyperventilation (etCO₂ <30 mmHg)",
+      "D": "Inverse I:E-Ratio"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Lungenprotektive Beatmung mit 6 ml/kg reduziert Pneumothorax-Risiko (Cave: Bei instabilem Thorax ggf. O₂-Helmet statt Intubation)."
+  },
+  {
+    "frage": "Schädel-Hirn-Trauma: Welcher Blutdruck ist bei SHT + Polytrauma anzustreben?",
+    "antworten": {
+      "A": "SBP >90 mmHg",
+      "B": "MAP >110 mmHg",
+      "C": "SBP 70-80 mmHg",
+      "D": "Keine Besonderheiten"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Systolisch >90 mmHg sichert zerebrale Perfusion (CPP = MAP - ICP). Cave: Bei aktiver Blutung Permissive Hypotonie (SBP 80-90 mmHg) abwägen!"
+  },
+  {
+    "frage": "Massivtransfusion: Welches Gerinnungsmonitoring ist bei Trauma essenziell?",
+    "antworten": {
+      "A": "Quick-Wert",
+      "B": "TEG/ROTEM",
+      "C": "aPTT",
+      "D": "Thrombozytenzahl"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Viskoelastische Methoden (TEG/ROTEM) zeigen Gerinnungsstörungen in Echtzeit (Fibrinogenmangel, Hyperfibrinolyse) und steuern die gezielte Therapie."
+  },
+  {
+    "frage": "Wirbelsäulentrauma: Wann ist eine RSI mit Manual In-Line Stabilization indiziert?",
+    "antworten": {
+      "A": "Bei allen Traumapatienten",
+      "B": "Nur bei bewusstlosen Patienten",
+      "C": "Bei Verdacht auf zervikale Instabilität",
+      "D": "Nie"
+    },
+    "richtige_antwort": "C",
+    "begründung": "RSI + MILS (Manuelle HWS-Stabilisierung) bei Verdacht auf zervikale Instabilität (z.B. Hochrasanztrauma, neurologisches Defizit, Schmerzen)."
+  },
+  {
+    "frage": "Hämorrhagischer Schock: Welches Volumen ist zur initialen Bolustherapie empfohlen?",
+    "antworten": {
+      "A": "500 ml NaCl 0,9%",
+      "B": "250 ml HAES 6%",
+      "C": "200 ml FFP",
+      "D": "1000 ml Ringer-Laktat"
+    },
+    "richtige_antwort": "D",
+    "begründung": "Initial 1000 ml balancierte Kristalloide (Ringer-Laktat/ Acetat), dann frühzeitig Blutprodukte (keine reinen Kolloide/NaCl nach aktueller S3-Leitlinie)."
+  },
+  {
+    "frage": "Trauma-Lagerung: Welche Position ist bei Beckenfraktur + Schock kontraindiziert?",
+    "antworten": {
+      "A": "Flache Rückenlage",
+      "B": "Trendelenburg-Lagerung",
+      "C": "Linksseitenlage",
+      "D": "Oberkörperhoch"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Trendelenburg-Lage erhöht den intraabdominellen Druck → verstärkte Blutung bei Beckenringfrakturen. Flache Lagerung + Beckengurt sind Standard."
+  },
+  {
+    "frage": "Tracheobronchiale Verletzung: Welches ist das typische Zeichen bei Intubation?",
+    "antworten": {
+      "A": "Plötzlicher SpO₂-Anstieg",
+      "B": "Subkutanes Emphysem",
+      "C": "Fehlendes Kapnogramm",
+      "D": "Hohe Beatmungsdrücke"
+    },
+    "richtige_antwort": "D",
+    "begründung": "Extrem hohe Beatmungsdrücke (>40 cmH₂O) + persistierende Luftleckage weisen auf tracheobronchiale Ruptur hin (Bronchoskopie erforderlich!)."
+  },
+  {
+    "frage": "Kindertrauma: Welche Besonderheit gilt bei der Volumentherapie?",
+    "antworten": {
+      "A": "Initial 20 ml/kg KG Kristalloide",
+      "B": "Nur Kolloide verwenden",
+      "C": "Keine Volumengabe vor Krankenhaus",
+      "D": "Immer sofort Bluttransfusion"
+    },
+    "richtige_antwort": "A",
+    "begründung": "Initialbolus bei Kindern: 20 ml/kg KG Kristalloide (z.B. Ringer-Laktat), bei anhaltendem Schock Wiederholung + Blutprodukte."
+  },
+  {
+    "frage": "Trauma-Blutungsmanagement: Welches Medikament ist bei Antikoagulation mit DOAKs sinnvoll?",
+    "antworten": {
+      "A": "Protamin",
+      "B": "Vitamin K",
+      "C": "Idarucizumab",
+      "D": "Tranexamsäure"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Idarucizumab ist Antidot für Dabigatran (Praxbind®). Bei FXa-Hemmern (Apixaban/Rivaroxaban): Andexanet alfa (wenn verfügbar)."
+  }
+]
