@@ -1,0 +1,112 @@
+[
+  {
+    "frage": "Was versteht man unter einer Allgemeinanästhesie? (Anästhesiegrundlagen)",
+    "antworten": {
+      "A": "Ein Zustand, in dem der Patient schläft, aber Schmerzen empfindet.",
+      "B": "Eine reversible Bewusstseinsausschaltung mit Schmerz- und Reflexverlust.",
+      "C": "Eine Methode zur lokalen Schmerzausschaltung.",
+      "D": "Ein Verfahren zur Wunddesinfektion."
+    },
+    "richtige_antwort": "B",
+    "begründung": "Die Allgemeinanästhesie ist ein medikamentös herbeigeführter, reversibler Zustand, bei dem Bewusstsein, Schmerzempfinden und Abwehrreaktionen vollständig ausgeschaltet sind."
+  },
+  {
+    "frage": "Welche Aufgabe gehört zum Tätigkeitsbereich der ATA während einer Anästhesie? (ATA-Aufgaben)",
+    "antworten": {
+      "A": "Erstellung von Röntgenaufnahmen",
+      "B": "Durchführung chirurgischer Eingriffe",
+      "C": "Assistenz bei Einleitung, Aufrechterhaltung und Ausleitung der Anästhesie",
+      "D": "Auswertung von Blutgasanalysen"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Zu den Aufgaben der ATA gehört u.a. die Assistenz bei Einleitung, Aufrechterhaltung und Ausleitung der Anästhesie sowie das Bereitstellen der nötigen Materialien."
+  },
+  {
+    "frage": "Welches Ziel verfolgt das Infektionsschutzgesetz (IfSG)? (Hygiene und Recht)",
+    "antworten": {
+      "A": "Verbreitung resistenter Keime zu fördern",
+      "B": "Hygiene nur in Laboren zu gewährleisten",
+      "C": "Übertragbaren Krankheiten vorzubeugen und ihre Verbreitung zu verhindern",
+      "D": "Einheitliche OP-Techniken zu regeln"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Ziel des IfSG ist es, übertragbaren Krankheiten beim Menschen vorzubeugen, Infektionen früh zu erkennen und ihre Verbreitung zu verhindern."
+  },
+  {
+    "frage": "Welche Aussage trifft auf das Robert Koch-Institut (RKI) zu? (Hygiene und Recht)",
+    "antworten": {
+      "A": "Es stellt Anästhesiegeräte her.",
+      "B": "Es reguliert Medikamentenpreise.",
+      "C": "Es ist für Hygienerichtlinien in Deutschland zuständig.",
+      "D": "Es führt Operationen durch."
+    },
+    "richtige_antwort": "C",
+    "begründung": "Das RKI ist das zentrale Bundesinstitut für Infektionsschutz und erstellt evidenzbasierte Hygienerichtlinien für medizinische Einrichtungen."
+  },
+  {
+    "frage": "Was bezeichnet der Begriff 'Sterilisation' im hygienischen Kontext? (Hygiene)",
+    "antworten": {
+      "A": "Die Reduzierung von Bakterien auf ein akzeptables Maß.",
+      "B": "Die Anwendung alkoholischer Händedesinfektion.",
+      "C": "Die vollständige Abtötung aller vermehrungsfähigen Mikroorganismen.",
+      "D": "Die Reinigung von OP-Kleidung."
+    },
+    "richtige_antwort": "C",
+    "begründung": "Sterilisation bedeutet die vollständige Abtötung aller vermehrungsfähigen Mikroorganismen auf Materialien oder Instrumenten."
+  },
+  {
+    "frage": "Was ist ein zentraler Aspekt bei der postoperativen Überwachung? (Postoperative Betreuung)",
+    "antworten": {
+      "A": "Der Wechsel der OP-Materialien",
+      "B": "Das regelmäßige Monitoring von Vitalparametern",
+      "C": "Die Entlassung des Patienten ohne Aufklärung",
+      "D": "Das Entfernen des Verbandes ohne Rücksprache"
+    },
+    "richtige_antwort": "B",
+    "begründung": "Vitalparameter wie Herzfrequenz, Blutdruck und Atmung sind nach der OP engmaschig zu überwachen."
+  },
+  {
+    "frage": "Welche Aussage zur ASA-Klassifikation ist korrekt? (Anästhesiegrundlagen)",
+    "antworten": {
+      "A": "Sie dient der Einteilung von Operationsarten.",
+      "B": "Sie beschreibt die Narkosetiefe.",
+      "C": "Sie klassifiziert den präoperativen Allgemeinzustand eines Patienten.",
+      "D": "Sie definiert das Alter des Patienten."
+    },
+    "richtige_antwort": "C",
+    "begründung": "Die ASA-Klassifikation bewertet den Gesundheitszustand von Patienten zur Abschätzung des Narkoserisikos."
+  },
+  {
+    "frage": "Welche Aufgabe fällt typischerweise in den Verantwortungsbereich der ATA bei der Lagerung? (ATA-Aufgaben)",
+    "antworten": {
+      "A": "Diagnostik der OP-Indikation",
+      "B": "Lagerung von OP-Materialien in der Apotheke",
+      "C": "Positionskontrolle und Druckstellenprophylaxe beim Patienten",
+      "D": "Entscheidung über das Anästhesieverfahren"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Die ATA ist mitverantwortlich für eine sichere, fachgerechte Lagerung des Patienten, um Komplikationen zu vermeiden."
+  },
+  {
+    "frage": "Welche Maßnahme gehört zur Basishygiene? (Hygiene)",
+    "antworten": {
+      "A": "Das tägliche Rasieren des Patienten",
+      "B": "Sterilisation von Einwegmaterial",
+      "C": "Händedesinfektion vor und nach Patientenkontakt",
+      "D": "Das Verwenden von Antibiotika"
+    },
+    "richtige_antwort": "C",
+    "begründung": "Die hygienische Händedesinfektion ist elementarer Bestandteil der Basishygiene im Klinikalltag."
+  },
+  {
+    "frage": "Was gehört zu den Aufgaben der ATA in Bezug auf Medikamente? (Medikamentenkunde)",
+    "antworten": {
+      "A": "Diagnose der Erkrankung",
+      "B": "Auswahl der operativen Technik",
+      "C": "Vorbereitung und Bereitstellung von Medikamenten nach ärztlicher Anordnung",
+      "D": "Verabreichung von Medikamenten ohne ärztliche Rücksprache"
+    },
+    "richtige_antwort": "C",
+    "begründung": "ATA bereiten Medikamente vor und stellen sie zur Anwendung durch den Arzt oder nach Delegation bereit."
+  }
+]
