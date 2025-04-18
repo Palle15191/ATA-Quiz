@@ -6,7 +6,7 @@ st.set_page_config("📘 PDF-Quiz", layout="wide")
 st.title("🧠 Dein KI-Quiz aus E-Book")
 
 # Lade Fragen aus JSON-Datei
-with open("data/300_Fragen_Deepseek.json", "r", encoding="utf-8") as f:
+with open("300_Fragen_Deepseek.json", "r", encoding="utf-8") as f:
     all_questions = json.load(f)
 
 # Auswahl der Fragenanzahl vor dem Quizstart
